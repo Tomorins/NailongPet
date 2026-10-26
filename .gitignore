@@ -1,0 +1,14 @@
+# Generated self-test reports and frame captures
+self-test*.txt
+sheet-preview.png
+src/preview-*.png
+
+# Local build/editor files
+*.pdb
+*.tmp
+.vs/
+.idea/
+.vscode/
+__pycache__/
+
+# The portable executable is intentionally included in this repository.
